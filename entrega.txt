@@ -1,0 +1,35 @@
+Vitor Hugo da Silva
+Matricula: 253072009
+URL: https://github.com/vitorh-silva/entrega-aula02-MATRICULA.git 
+TAG: entrega-aula02-MATRICULA
+SHA do commit da TAG: 
+Comandos Utilizados:
+git config --global user.name
+git config --global user.email
+git config --list
+git config --global credential.helper wincred
+ssh-keygen -t ed25519 -C
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+git config --list
+ssh -T git@github.com
+mkdir meu-primeiro-projeto
+cd meu-primeiro-projeto
+git init
+echo "# Meu Primeiro Projeto Git" > README.md
+git add
+git commit -m 
+git log
+git log --oneline
+git show
+git checkout
+git switch -
+git remote add origin
+git remote -v
+git push -u origin main
+git add funcionalidade.txt
+git merge
+nano
+touch
+git tag -a

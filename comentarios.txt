@@ -1,0 +1,5 @@
+Dificuldade no entendimento dos erros
+Busca de comandos fora dos slides
+Falta de afinidade com a dashboard do Git
+Busca de atalhos de teclas para usa no Git
+Aprendizado prático de como resolver conflitos de merge
