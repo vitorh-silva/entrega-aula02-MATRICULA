@@ -1,8 +1,8 @@
 Vitor Hugo da Silva
 Matricula: 253072009
-URL: https://github.com/vitorh-silva/entrega-aula02-MATRICULA.git 
-TAG: entrega-aula02-MATRICULA
-SHA do commit da TAG: 
+URL: https://github.com/vitorh-silva/entrega-aula02-253072009.git
+TAG: entrega-aula02-253072009
+SHA do commit da TAG: 16b24c1889aabee8477727cc47cc1c6959603aa1 
 Comandos Utilizados:
 git config --global user.name
 git config --global user.email
